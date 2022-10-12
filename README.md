@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Karmakar
-- 👀 I’m interested in Full Stack JavaScript Develpoer.
+- 👀 I’m interested in UI Develpoer.
 - Proficent in Javascript, HTML,CSS, Tailwind CSS, C.
 - 🌱 I’m currently learning NodeJS, React.
 - Paytm Clone
