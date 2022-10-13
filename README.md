@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Karmakar
 - 👀 I’m interested in UI Develpoer.
-- Proficent in Javascript, HTML,CSS, Tailwind CSS, C.
-- 🌱 I’m currently learning NodeJS, React.
+- Proficent in HTML,CSS, Tailwind CSS, C.
+- 🌱 I’m currently learning JavaScript, React.
 - Paytm Clone
  https://github.com/rkarmakar14/Paytm (Technology Used- Tailwind CSS)
  ![Paytm](https://user-images.githubusercontent.com/110077056/194805126-e2f4d75e-d653-438a-8d3f-1168959a5a57.jpeg)
