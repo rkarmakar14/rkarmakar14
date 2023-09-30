@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Rahul Karmakar
 - 👀 I’m interested in MERN Developer.
 - skills in HTML, CSS, Tailwind CSS, JavaScript, React, NodeJS, Express JS, MySQL and MongoDB.
-- Authetication of users registration, login.
+- Developed a Backend project. which include authetication of user.
+- Presently building a E-Commerce website using NodeJs, ExpressJs and Database for MongoDB.
 - Paytm Clone
  https://github.com/rkarmakar14/Paytm (Technology Used- Tailwind CSS)
  ![Paytm](https://user-images.githubusercontent.com/110077056/194805126-e2f4d75e-d653-438a-8d3f-1168959a5a57.jpeg)
