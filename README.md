@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Karmakar
-- 👀 I’m interested in MERN Developer.
-- skills in HTML, CSS, Tailwind CSS, JavaScript, React, NodeJS, Express JS, MySQL and MongoDB.
+- 👀 I’m a Junior Full Stack Developer.
+- skills in HTML, CSS, Tailwind CSS, JavaScript, React, NodeJS, Express JS, MySQL, PostgreSQL.
 - Developed a Backend project. which include authetication of user.
 - Presently building a E-Commerce website using NodeJs, ExpressJs and Database for MongoDB.
 - Paytm Clone
